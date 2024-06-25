@@ -13,13 +13,13 @@ document.addEventListener("DOMContentLoaded", function () {
       },
 
       // Experimental2
-      "Peak wavenumber at ≈640 cm-1": {
+      "Raman shift at ≈640 1/cm": {
         iframe: "visualizations/experimental/2_Exp_WaveNumberImax.html",
         csv: "data/experimental/2_WavenumberImax.csv",
       },
 
       // Experimental3
-      "Absorption at 4.4 eV": {
+      "Absorption Coefficient at 4.4 eV": {
         iframe: "visualizations/experimental/3_Exp_Absorption4.4eV.html",
         csv: "data/experimental/3_Exp_Absorption4.4eV.csv",
       },
