@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
       },
 
       // Experimental2
-      "Raman shift at ≈640 1/cm": {
+      "Raman Shift at ≈640 1/cm": {
         iframe: "visualizations/experimental/2_Exp_WaveNumberImax.html",
         csv: "data/experimental/2_WavenumberImax.csv",
       },
